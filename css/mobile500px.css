@@ -1,0 +1,13 @@
+#main .post {
+	display: flex;
+	flex-direction: column;
+}
+
+.menu-wrap .hamburger {
+	top: 20px;
+	right: 20px;
+	height: 40px;
+	width: 40px;
+}
+
+#articlepage .l-heading { font-size: 2rem; }

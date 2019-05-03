@@ -1,0 +1,8 @@
+#showcase .container { align-items: center; }
+
+#showcase .text {
+	padding: 0;
+	text-align: center;
+}
+
+#header { position: relative; }
